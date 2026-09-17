@@ -43,6 +43,23 @@ a {
   color: rebeccapurple;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 12px;
+
 }
+
+.left-links,
+.right-links {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+

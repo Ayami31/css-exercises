@@ -7,15 +7,15 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 32px;
+  margin: 12px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 48px;
 }
 
 .three {
@@ -23,6 +23,39 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 32px;
+  margin-left: auto;
 }
+
+  /* 
+  body {
+  max-width: 600px;
+  margin: 0 auto;
+
+
+}
+
+.one {
+  padding: 32px;
+  margin: 12px;
+  background-color: rgb(255, 111, 111);
+  border-color: rgb(38, 38, 211);
+  border: 3px solid;
+
+}
+
+.two {
+  margin-bottom: 48px;
+  background-color:aqua;
+  border-color: rgb(128, 0, 128);
+  border: 3px solid;
+
+}
+
+.three {
+  padding: 32px;
+  margin-left: auto;
+  background-color: orange;
+  border-color: rgb(255, 0, 0);
+  border: 3px solid;
+} */
