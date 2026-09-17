@@ -24,3 +24,60 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.body{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+
+  gap: 52px;
+}
+
+.title
+{
+  margin-bottom: 32px;
+}
+
+.info {
+  max-width: 200px;
+  align-items: center;
+  justify-content: center;;
+}
+
+
+
+/* 
+.header {
+  justify-content: center;
+  align-items: center;
+  margin: 32px;
+}
+
+.top {
+  align-items: center;
+  text-align: center;
+  margin: 32px;
+
+}
+.bottom {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.first,
+.second,
+.third,
+.fourth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 200%;
+  gap: 52px;
+  margin: auto;
+} */

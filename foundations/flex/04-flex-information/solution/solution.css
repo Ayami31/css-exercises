@@ -27,7 +27,7 @@ img {
 
 /* SOLUTION */
 
-body {
+.body {
   text-align: center;
 }
 
@@ -38,6 +38,7 @@ body {
 .container {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 52px;
 }
 
